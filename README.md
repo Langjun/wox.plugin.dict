@@ -1,4 +1,4 @@
-Baidu Dict for [Wox](http://www.getwox.com/)
+Baidu Dict for [Wox](https://www.getwox.com/)
 ============================================
 
 
