@@ -1,12 +1,12 @@
 {
-    "ID":"D2D2C23B084D411DB66FE0C79D6C2A6G",   //插件ID，32位的UUID
-    "ActionKeyword":"dic",                     //插件默认的触发关键字
-    "Name":"DICT",                              //插件名字
-    "Description":"Baidu dict for Wox",    //插件介绍
-    "Author":"Langjun",                     //作者
-    "Version":"1.0.0",                         //插件版本，必须是x.x.x的格式
-    "Language":"python",                       //插件语言，目前支持csharp,python
-    "Website":"https://github.com/langjun",         //插件网站或者个人网站
-    "IcoPath": "img\\pic.png",              //插件图标，路径是相对插件根目录的路径
-    "ExecuteFileName":"main.py"   //执行文件入口，如果是C#插件则填写DLL路径，如果是pyhton则填写python文件路径
+    "ID":"D2D2C23B084D411DB66FE0C79D6C2A6G",
+    "ActionKeyword":"dic",
+    "Name":"DICT",
+    "Description":"Baidu dict for Wox",
+    "Author":"Langjun",
+    "Version":"1.0.0",
+    "Language":"python"
+    "Website":"https://github.com/langjun",
+    "IcoPath": "img\\pic.png",
+    "ExecuteFileName":"main.py"
 }
