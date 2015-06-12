@@ -5,7 +5,7 @@
     "Description":"Baidu dict for Wox",
     "Author":"Langjun",
     "Version":"1.0.0",
-    "Language":"python"
+    "Language":"python",
     "Website":"https://github.com/langjun",
     "IcoPath": "img\\pic.png",
     "ExecuteFileName":"main.py"
